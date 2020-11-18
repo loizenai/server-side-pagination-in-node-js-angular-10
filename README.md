@@ -1,4 +1,4 @@
-#Server Side Pagination in Node.js Angular 10 + MySQL + Sequelize
+# Server Side Pagination in Node.js Angular 10 + MySQL + Sequelize
 
 [Server Side Pagination in Node.js Angular 10 + MySQL + Sequelize](https://loizenai.com/server-side-pagination-in-node-js-angular-10-mysql-sequelize/#sourcecode)
 
